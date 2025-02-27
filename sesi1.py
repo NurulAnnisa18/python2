@@ -4,7 +4,7 @@
 print("Nurul Annisa")
 print("Department of Information Technology")
 print("UIN Ar-Raniry")
-print("Jalan Syech Abdurrauf Kopelma Darussalam ")
+print("Jalan lam ara,rukoh,Darussalam ")
 print("Banda Aceh")
 print("Indonesia")
 
